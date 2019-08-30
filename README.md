@@ -1,6 +1,7 @@
 # path-params
 
 ![Typed with TypeScript](https://flat.badgen.net/badge/icon/Typed?icon=typescript&label&labelColor=blue&color=555555)
+[![Build Status](https://travis-ci.org/maruware/path-params.svg?branch=master)](https://travis-ci.org/maruware/path-params)
 
 Build URL with path params
 
