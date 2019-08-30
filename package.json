@@ -4,6 +4,9 @@
   "description": "Build URL with path params",
   "main": "dist/path-params.js",
   "types": "dist/path-params.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "prepare": "tsc",
