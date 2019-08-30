@@ -1,0 +1,19 @@
+{
+  "name": "@maruware/path-params",
+  "version": "0.0.1",
+  "description": "Build URL with path params",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maruware/path-params.git"
+  },
+  "author": "maruware",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maruware/path-params/issues"
+  },
+  "homepage": "https://github.com/maruware/path-params#readme"
+}
