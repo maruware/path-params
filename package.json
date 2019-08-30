@@ -2,7 +2,8 @@
   "name": "@maruware/path-params",
   "version": "0.0.2",
   "description": "Build URL with path params",
-  "main": "dist/index.js",
+  "main": "dist/path-params.js",
+  "types": "dist/path-params.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "tsc",
