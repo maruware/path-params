@@ -1,6 +1,6 @@
 {
   "name": "@maruware/path-params",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Build URL with path params",
   "main": "dist/path-params.js",
   "types": "dist/path-params.d.ts",
